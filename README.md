@@ -1,3 +1,8 @@
+This project was created as a final for Engineering 96I, Internet of Things. 
+Most of the code was given by my professor, William Kaiser – the files I edited were main.c and embedded_ML.c.
+
+
+////////////ORIGINAL README/////////////////////
 # STM32CubeU5 MCU Firmware Package
 
 ![latest tag](https://img.shields.io/github/v/tag/STMicroelectronics/STM32CubeU5.svg?color=brightgreen)
